@@ -1,8 +1,9 @@
-[English](https://github.com/mantou-io/mantou-serif/) [简体中文](README-CN.md) [繁體中文](README-TW.md) [日本語](README-JP.md) [한국어](README-KR.md)
+[English](README-US.md) [简体中文](https://github.com/mantou-io/mantou-serif) [繁體中文](README-TW.md) [日本語](README-JP.md) [한국어](README-KR.md)
 
 # 馒头宋体
 
 馒头宋体是基于思源宋体，优化其中文排印相关方面，使其更适合阅读相关场景使用。
+
 思源宋体是一套 OpenType/CFF 泛中日韩字体。这个开源项目不仅提供了可用的 OpenType 字体，还提供了利用 AFDKO *makeotf* 和 *otf2otc* 工具创建这些 OpenType 字体时的所有源文件。
 
 ## 下载字体（OTF、OTC、Super OTC 和 Subset OTF）
